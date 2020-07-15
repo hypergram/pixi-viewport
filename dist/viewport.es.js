@@ -1,5 +1,5 @@
-import * as PIXI from 'pixi.js';
-import { Rectangle, Point, Container, VERSION } from 'pixi.js';
+import * as PIXI from 'pixi.js-legacy';
+import { Rectangle, Point, Container, VERSION } from 'pixi.js-legacy';
 
 /**
  * @typedef ViewportTouch
