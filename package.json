@@ -49,7 +49,7 @@
     },
     "homepage": "https://github.com/davidfig/pixi-viewport#readme",
     "peerDependencies": {
-        "pixi.js": ">=4.6.0"
+        "pixi.js-legacy": ">=5.3.0"
     },
     "dependencies": {
         "penner": "^0.1.3"
